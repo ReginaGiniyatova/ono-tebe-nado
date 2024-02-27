@@ -100,6 +100,7 @@ body {
     margin: 165px 24px 135px;
     min-width: 1052px;
     min-height: 355px;
+    padding-top: 165px;
     color: white;
     text-transform: uppercase;
     z-index: 2;
